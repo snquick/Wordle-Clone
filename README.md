@@ -1,5 +1,5 @@
 # Wordle Clone
-*Recreating the popular web-based word game called "Wordle" using React.Js
+<em>Recreating the popular web-based word game called "Wordle" using React.Js </em>
 
 <strong> Screenshots: </strong> <br>
 Default webpage: <br>![default](https://user-images.githubusercontent.com/35506354/197885832-d346bc3e-151e-495c-85e4-59114e2dba30.png) <br><br>
